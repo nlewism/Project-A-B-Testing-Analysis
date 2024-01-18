@@ -115,21 +115,21 @@ Step 10: Contribute or Share Results
 
 # Key Findings
 
-Completion Rate Analysis:
+1. Completion Rate Analysis:
 
 - Hypothesis Testing: Conducted a two-proportion z-test to compare the completion rates of the Test (new design) and Control (old design) groups. The results yielded a Z-statistic of -8.87 and an extremely low p-value (7.02e-19), leading to the rejection of the null hypothesis. There is robust evidence that completion rates are significantly different between the two groups.
 
 - Alternative Hypothesis Testing: Performed a one-sided z-test to assess whether the completion rate for the Test group is greater than the Control group increased by 5%. The analysis returned a Z-statistic of -8.87 and a p-value of 1.00, indicating a failure to reject the null hypothesis. There is no significant evidence that the completion rate for the Test group is greater than the Control group increased by 5%.
 
-Gender Engagement Analysis:
+2. Gender Engagement Analysis:
 
 - Hypothesis Testing: Applied a chi-square test to investigate the gender-based differences in client engagement with the new process. With a chi-square statistic of 3.62 and a p-value of 0.31, the analysis failed to reject the null hypothesis. There is no significant difference in the proportion of clients engaging with the new process across different gender categories.
 
-Client Age Analysis:
+3. Client Age Analysis:
 
 - Hypothesis Testing: Utilized a t-test to examine the average age difference between clients engaging with the new and old processes. The t-statistic was 2.42, and the p-value was 0.02, leading to the rejection of the null hypothesis. There is a significant difference in the average age between the Control and Test groups.
 
-Client Tenure Analysis:
+4. Client Tenure Analysis:
 
 - Hypothesis Testing: Applied a t-test to assess the average client tenure difference between the Test and Control groups. The t-statistic was 1.87, and the p-value was 0.06, indicating a failure to reject the null hypothesis. There is no significant difference in the average tenure years between the Control and Test groups.
 
