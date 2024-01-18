@@ -75,43 +75,43 @@ Follow these steps to set up and conduct the analysis for the Vanguard CX team's
 
 Step 1: Clone the Repository
 
-Clone the project repository to your local machine.
+- Clone the project repository to your local machine.
 
 Step 2: Install Dependencies
 
-Ensure you have the required Python libraries installed. You can install them using:"pip install -r requirements.txt"
+- Ensure you have the required Python libraries installed. You can install them using:"pip install -r requirements.txt"
 
 Step 3: Load and Merge Datasets
 
-Load the three datasets (df_final_demo, df_final_web_data, and df_final_experiment_clients) into your preferred data analysis environment (e.g., Jupyter Notebook, Python script). Merge the df_final_web_data parts (pt_1 and pt_2) for a comprehensive analysis.
+- Load the three datasets (df_final_demo, df_final_web_data, and df_final_experiment_clients) into your preferred data analysis environment (e.g., Jupyter Notebook, Python script). Merge the df_final_web_data parts (pt_1 and pt_2) for a comprehensive analysis.
 
 Step 4: Explore Data
 
-Explore the datasets to gain a preliminary understanding. Check for missing values, outliers, and any patterns that may influence the analysis.
+- Explore the datasets to gain a preliminary understanding. Check for missing values, outliers, and any patterns that may influence the analysis.
 
 Step 5: Preprocess Data
 
-Preprocess the data as needed. Handle missing values, perform data cleaning, and ensure datasets are in a suitable format for analysis.
+- Preprocess the data as needed. Handle missing values, perform data cleaning, and ensure datasets are in a suitable format for analysis.
 
 Step 6: Conduct A/B Testing Analysis
 
-Utilize statistical techniques to analyze the A/B test results. Compare the Control and Test groups to uncover insights into user experience and process completion rates.
+- Utilize statistical techniques to analyze the A/B test results. Compare the Control and Test groups to uncover insights into user experience and process completion rates.
 
 Step 7: Visualize Results
 
-Create visualizations (using tools like Seaborn and Matplotlib) to illustrate key findings. Visual representations enhance the understanding of trends and patterns.
+- Create visualizations (using tools like Seaborn and Matplotlib) to illustrate key findings. Visual representations enhance the understanding of trends and patterns.
 
 Step 8: Generate Insights and Recommendations
 
-Based on your analysis, generate actionable insights and recommendations for the Vanguard CX team. Consider the implications of the UI changes on user behavior and suggest potential optimizations.
+- Based on your analysis, generate actionable insights and recommendations for the Vanguard CX team. Consider the implications of the UI changes on user behavior and suggest potential optimizations.
 
 Step 9: Document Your Analysis
 
-Document your analysis process, findings, and any code-related information. Ensure clarity for team members or collaborators who may review or continue the analysis.
+- Document your analysis process, findings, and any code-related information. Ensure clarity for team members or collaborators who may review or continue the analysis.
 
 Step 10: Contribute or Share Results
 
-If applicable, contribute your findings back to the project repository. Share results with relevant stakeholders, and consider how your analysis might inform future iterations of the digital experiment.
+- If applicable, contribute your findings back to the project repository. Share results with relevant stakeholders, and consider how your analysis might inform future iterations of the digital experiment.
 
 # Key Findings
 
@@ -138,4 +138,15 @@ These key findings provide valuable insights into the impact of the new UI on co
 # Conclusion
 Summarizing the Vanguard CX Team's Digital Experiment Analysis, we observed a significant impact of the redesigned User Interface (UI) on completion rates, highlighting its influence on user interactions. While the 5% increase hypothesis was inconclusive, our findings suggest a need for nuanced strategies in targeting diverse age groups. Interestingly, gender did not emerge as a significant factor affecting engagement with the new UI. The analysis provides actionable insights, encouraging a focused and iterative approach to further refine the UI for enhanced user experience across different client segments. Explore the repository for a detailed breakdown of our findings and recommendations, shaping the path forward for Vanguard's digital evolution.
 
-Contact
+# Presentation
+
+# Contact
+- Github:
+    - 
+    - 
+    - 
+- LinkedIn:
+    - 
+    - 
+    - 
+
