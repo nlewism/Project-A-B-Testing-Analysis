@@ -4,7 +4,7 @@ Project status(Active)
 # Project objective
 The primary objective of this project is to analyze the outcomes of the A/B test conducted by the Customer Experience (CX) team at Vanguard. The focus is on evaluating the impact of introducing a more intuitive and modern User Interface (UI), along with timely in-context prompts, on the online client experience. The experiment, which ran from 3/15/2017 to 6/20/2017, involved a control group using Vanguard's traditional online process and a test group exposed to the new, enhanced digital interface. Both groups followed an identical process sequence comprising an initial page, three subsequent steps, and a confirmation page to gauge process completion rates. The goal is to discern whether the revamped design contributes to a superior user experience, ultimately leading to higher rates of successful process completion. The findings from this analysis will provide crucial insights for optimizing Vanguard's digital platforms and enhancing overall client satisfaction.
 
-# Methods used
+# Methods 
 Grouping and Data Analysis:
 - groupby(): Aggregates or analyses DataFrame rows according to designated columns.
 - nunique(): Returns the number of unique elements along a particular axis, providing counts of distinct values in each column.
@@ -15,14 +15,13 @@ Data Cleaning:
 Data Transformation:
 - to_datetime(): Allows you to manipulate and analyze dates and times by converting a column or columns in a DataFrame to datetime format.
 
-Data Combination and Manipulation:
+Data Combination:
 - concat(): Concatenates two or more DataFrames along a specified axis, facilitating the combination of datasets with similar structures.
 - merge(): Combines two DataFrames into a single DataFrame based on a common column, similar to SQL joins.
-
-Data Sorting and Manipulation:
-- sort_values(): Sorts a DataFrame by one or more columns, allowing for better data organization.
-Data Combination:
 - append(): Appends rows of one DataFrame to another, enabling the vertical combination of two datasets.
+
+Data Sorting:
+- sort_values(): Sorts a DataFrame by one or more columns, allowing for better data organization.
 
 Visualization:
 - sns.histplot(): Creates a histogram, visualizing the distribution of a single variable by dividing the data into bins and displaying the frequency or density of observations in each bin.
@@ -31,7 +30,7 @@ Visualization:
 - sns.boxplot(): Generates a box plot, providing a visual summary of the distribution of numerical data, including measures of central tendency and the spread of the data.
 - sns.barplot(): Generates a bar plot, typically used to depict the average value of a numerical variable for different categories, providing a clear visual representation of the central tendency across different groups.
 
-# Technologies used
+# Technologies 
 - Python
 - Pandas
 - Seaborn
