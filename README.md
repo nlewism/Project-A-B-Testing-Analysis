@@ -1,5 +1,5 @@
 # Vanguard_Customer_Analysis
-Project status(Active)
+Project status(Completed)
 
 # Project objective
 The primary objective of this project is to analyze the outcomes of the A/B test conducted by the Customer Experience (CX) team at Vanguard. The focus is on evaluating the impact of introducing a more intuitive and modern User Interface (UI), along with timely in-context prompts, on the online client experience. The experiment, which ran from 3/15/2017 to 6/20/2017, involved a control group using Vanguard's traditional online process and a test group exposed to the new, enhanced digital interface. Both groups followed an identical process sequence comprising an initial page, three subsequent steps, and a confirmation page to gauge process completion rates. The goal is to discern whether the revamped design contributes to a superior user experience, ultimately leading to higher rates of successful process completion. The findings from this analysis will provide crucial insights for optimizing Vanguard's digital platforms and enhancing overall client satisfaction.
@@ -143,9 +143,9 @@ Summarizing the Vanguard CX Team's Digital Experiment Analysis, we observed a si
 - Github:
     - 
     - 
-    - 
+    - https://github.com/billnati18
 - LinkedIn:
     - 
     - 
-    - 
+    - www.linkedin.com/in/natalia-billoch-flores 
 
