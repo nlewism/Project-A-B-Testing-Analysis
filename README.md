@@ -141,9 +141,8 @@ Client Tenure Analysis:
 These key findings provide valuable insights into the impact of the new UI on completion rates, gender engagement, client age, and tenure. The results guide actionable recommendations for refining the digital experience and tailoring strategies to specific client segments.
 
 # Conclusion
-Summarizing the Vanguard CX Team's Digital Experiment Analysis, we observed a significant impact of the redesigned User Interface (UI) on completion rates, highlighting its influence on user interactions. While the 5% increase hypothesis was inconclusive, our findings suggest a need for nuanced strategies in targeting diverse age groups. Interestingly, gender did not emerge as a significant factor affecting engagement with the new UI. The analysis provides actionable insights, encouraging a focused and iterative approach to further refine the UI for enhanced user experience across different client segments. Explore the repository for a detailed breakdown of our findings and recommendations, shaping the path forward for Vanguard's digital evolution.
 
-# Presentation
+Summarizing the Vanguard CX Team's Digital Experiment Analysis, we observed a significant impact of the redesigned User Interface (UI) on completion rates, highlighting its influence on user interactions. While the 5% increase hypothesis was inconclusive, our findings suggest a need for nuanced strategies in targeting diverse age groups. Interestingly, gender did not emerge as a significant factor affecting engagement with the new UI. The analysis provides actionable insights, encouraging a focused and iterative approach to further refine the UI for enhanced user experience across different client segments. Explore the repository for a detailed breakdown of our findings and recommendations, shaping the path forward for Vanguard's digital evolution.
 
 # Contact
 
