@@ -1,4 +1,4 @@
-# Vanguard_Customer_Analysis
+# Vanguard A/B Test Analysis
 Project status(Completed)
 
 [TABLEAU PRESENTATION](https://public.tableau.com/app/profile/natalie.lewis/viz/Client_ExperimentV4/Vanguard?publish=yes)
