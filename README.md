@@ -154,6 +154,6 @@ Summarizing the Vanguard CX Team's Digital Experiment Analysis, we observed a si
     - [Natalie Lewis](https://github.com/nlewism)
     - [Samiel Zengotita](https://github.com/samielzaret7)
 - LinkedIn:
-    - www.linkedin.com/in/natalia-billoch-flores
+    - [Natalia Billoch]www.linkedin.com/in/natalia-billoch-flores
     - [Natalie Lewis](https://www.linkedin.com/in/analyst-natalie/)
     - [Samiel Zengotita](https://www.linkedin.com/in/zengotita/)
